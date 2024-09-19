@@ -40,4 +40,3 @@ In a DevOps model, development and operations teams often have shared ownership 
 
 
 
-
