@@ -25,14 +25,14 @@
 - Capacity Planning: Ensuring systems are built with the right capacity in mind, ensuring scalability and performance under load.
 - Error Budgets: A concept unique to SRE, error budgets define the acceptable level of downtime or failures in a system, allowing for controlled risks and innovation without compromising reliability.
 - Production Engineering: Google SRE teams often build and operate the software engineering infrastructure that supports highly reliable systems.
-- Main Difference Between DevOps and SRE (According to Google):
+## Main Difference Between DevOps and SRE (According to Google):
 - Focus on Reliability vs. Speed: DevOps emphasizes continuous delivery and speed, promoting a balance between operations and development for faster delivery of features. SRE, on the other hand, is more focused on ensuring the reliability of the system, using methods like SLAs, SLOs, and error budgets.
 
 # Concept of Toil
 - SRE places a specific emphasis on reducing "toil," which is repetitive, manual tasks that don't contribute to long-term value. While DevOps seeks automation, SRE's focus on toil reduction is more structured.
 
 # Ownership Model
-In a DevOps model, development and operations teams often have shared ownership of code and infrastructure. In contrast, SRE teams usually have more defined boundaries, where developers focus on building features and SREs manage production reliability. SREs often work closely with developers to ensure code is production-ready.
+In a DevOps model, development and operations teams often have shared ownership of code and infrastructure. In contrast, SRE teams usually have more defined boundaries, where developers focus on building features and SREs manage production reliability. **SREs often work closely with developers to ensure code is production-ready.**
 
 - In summary, DevOps is more focused on collaboration and automation to improve software delivery, while SRE emphasizes reliability, with specific metrics and methods to minimize failures and improve system uptime.
 
