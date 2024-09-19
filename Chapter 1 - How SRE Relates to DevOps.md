@@ -38,6 +38,6 @@ In a DevOps model, development and operations teams often have shared ownership 
 
  # Conclusion 
 - If you think of DevOps as a philosophy and an approach to working, you can argue that SRE implements some of the philosophy that DevOps describes, and is somewhat closer to a concrete definition of a job or role than, say, “DevOps engineer.”8 So, in a way, class SRE implements interface DevOps.
-
+- In simple words DevOps is a set of practices that tells WHAT needs to be done SRE impliments those practices and tells HOW it needs to be done.
 
 
