@@ -8,7 +8,7 @@
 
 # SRE vs DevOps
 - DevOps and Site Reliability Engineering (SRE) share similarities in their goals of improving system reliability, scalability, and speed of delivery. However, there are distinctions in how they approach achieving these goals.
-<br>
+  
 ## Core Responsibilities of DevOps:
 - Collaboration Between Teams: DevOps fosters collaboration between development (Dev) and operations (Ops) teams to streamline the software delivery pipeline.
 - Automation: DevOps aims to automate repetitive tasks, including CI/CD pipelines, infrastructure provisioning, and monitoring.
@@ -17,7 +17,6 @@
 - Monitoring & Incident Response: Implementing monitoring solutions to ensure system health and proactively address issues.
 - Scalability and Security: Ensuring the infrastructure can scale and is secure through automated checks and updates.
 - Cultural Transformation: Encouraging a mindset shift towards shared responsibility between development and operations.
-<br>
 ## Core Responsibilities of SRE (According to Google):
 - Service Reliability: SRE teams focus on maintaining system reliability through Service Level Indicators (SLIs) and Service Level Objectives (SLOs). The idea is to ensure systems meet reliability standards while balancing new feature deployments.
 - Incident Management: SRE teams are responsible for managing incidents, performing root cause analysis, and post-incident reviews (blameless postmortems).
