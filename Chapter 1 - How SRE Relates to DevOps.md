@@ -36,7 +36,8 @@ In a DevOps model, development and operations teams often have shared ownership 
 
 - In summary, DevOps is more focused on collaboration and automation to improve software delivery, while SRE emphasizes reliability, with specific metrics and methods to minimize failures and improve system uptime.
 
-
+ # Conclusion 
+- If you think of DevOps as a philosophy and an approach to working, you can argue that SRE implements some of the philosophy that DevOps describes, and is somewhat closer to a concrete definition of a job or role than, say, “DevOps engineer.”8 So, in a way, class SRE implements interface DevOps.
 
 
 
