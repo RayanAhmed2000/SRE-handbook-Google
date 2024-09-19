@@ -18,9 +18,9 @@
 - Scalability and Security: Ensuring the infrastructure can scale and is secure through automated checks and updates.
 - Cultural Transformation: Encouraging a mindset shift towards shared responsibility between development and operations.
 ## Core Responsibilities of SRE (According to Google):
-- Service Reliability: SRE teams focus on maintaining system reliability through Service Level Indicators (SLIs) and Service Level Objectives (SLOs). The idea is to ensure systems meet reliability standards while balancing new feature deployments.
-- Incident Management: SRE teams are responsible for managing incidents, performing root cause analysis, and post-incident reviews (blameless postmortems).
-- Monitoring & Alerting: Implementing robust monitoring and alerting systems, making sure the right people are alerted during outages or issues.
+- Service Reliability: SRE teams focus on maintaining system reliability through Service Level Indicators (SLIs) and Service Level Objectives (SLOs). The idea is **to ensure systems meet reliability standards while balancing new feature deployments.**
+- Incident Management: SRE teams are responsible for **managing incidents, performing root cause analysis, and post-incident reviews (blameless postmortems).**
+- Monitoring & Alerting: **Implementing robust monitoring and alerting systems,** making sure the right people are alerted during outages or issues.
 - Automation: Like DevOps, SRE emphasizes automation, but with the focus of reducing toil—manual, repetitive work that doesn't contribute to long-term value.
 - Capacity Planning: Ensuring systems are built with the right capacity in mind, ensuring scalability and performance under load.
 - Error Budgets: A concept unique to SRE, error budgets define the acceptable level of downtime or failures in a system, allowing for controlled risks and innovation without compromising reliability.
