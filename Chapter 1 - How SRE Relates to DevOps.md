@@ -26,7 +26,7 @@
 - Error Budgets: A concept unique to SRE, error budgets define the acceptable level of downtime or failures in a system, allowing for controlled risks and innovation without compromising reliability.
 - Production Engineering: Google SRE teams often build and operate the software engineering infrastructure that supports highly reliable systems.
 ## Main Difference Between DevOps and SRE (According to Google):
-- Focus on Reliability vs. Speed: DevOps emphasizes continuous delivery and speed, promoting a balance between operations and development for faster delivery of features. SRE, on the other hand, is more focused on ensuring the reliability of the system, using methods like SLAs, SLOs, and error budgets.
+- Focus on Reliability (SRE) vs. Speed (Devops) : DevOps emphasizes continuous delivery and speed, promoting a balance between operations and development for faster delivery of features. SRE, on the other hand, is more focused on ensuring the reliability of the system, using methods like SLAs, SLOs, and error budgets.
 
 # Concept of Toil
 - SRE places a specific emphasis on reducing "toil," which is repetitive, manual tasks that don't contribute to long-term value. While DevOps seeks automation, SRE's focus on toil reduction is more structured.
